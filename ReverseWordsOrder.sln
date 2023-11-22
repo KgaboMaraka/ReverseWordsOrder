@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWordsOrder", "ReverseWordsOrder\ReverseWordsOrder.csproj", "{CA2540F2-B093-4656-9895-A30766FEB5F7}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseOrderTest", "ReverseOrderTest\ReverseOrderTest.csproj", "{9FFE8DCB-5BE8-4823-A649-AA9F864A1F51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseWordsOrder", "ReverseWordsOrder\ReverseWordsOrder.csproj", "{CA2540F2-B093-4656-9895-A30766FEB5F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{CA2540F2-B093-4656-9895-A30766FEB5F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA2540F2-B093-4656-9895-A30766FEB5F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA2540F2-B093-4656-9895-A30766FEB5F7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9FFE8DCB-5BE8-4823-A649-AA9F864A1F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9FFE8DCB-5BE8-4823-A649-AA9F864A1F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9FFE8DCB-5BE8-4823-A649-AA9F864A1F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9FFE8DCB-5BE8-4823-A649-AA9F864A1F51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
